@@ -1,0 +1,14 @@
+[project]
+name = "comfy-gimm-vfi"
+description = "This node is a registry version of Kijais https://github.com/kijai/ComfyUI-GIMM-VFI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Mattabyte/ComfyUI-GIMM-VFI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "mattabyte"
+DisplayName = "ComfyUI-GIMM-VFI-Registry"
+Icon = ""
